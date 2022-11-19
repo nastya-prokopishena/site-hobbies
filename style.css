@@ -2,6 +2,7 @@ body {
     font-family: 'Caveat', cursive;
     background-image: linear-gradient(150deg,  #ff8c1a,#663300);
     color: #ffe6cc;
+    margin-bottom: 100px;
 }
 .main-text {
     text-align: center;
@@ -47,4 +48,29 @@ body {
 .musik-img-2{
     height: 550px;
     margin-left: 75px;
+}
+.sport{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.sport-text {
+    
+    
+}
+.sport-title {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+.sport-description {
+    font-size: 25px;
+    padding-top: 200px;
+    text-align: left;
+    margin-left: 600px;
+}
+.sport-img {
+    margin-top: -340px;
+}
+.sport-img-1{
+    height: 550px;
 }
